@@ -1,4 +1,4 @@
-<h1 align="center">StoreControl</h1>
+<h1 align="center">StoreC ontrol</h1>
 <p align="center">Restore functionality of screen savers to iOS home devices (iOS 14.0 to iOS 16.1.2)</p>
 &nbsp;
 <p align="center">
