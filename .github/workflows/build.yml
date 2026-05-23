@@ -1,4 +1,4 @@
-- name: Build App
+- name: Build IPA
         run: |
           xcodebuild -project StoreControl.xcodeproj -scheme StoreControl -configuration Release -derivedDataPath build/DerivedDataApp -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO clean build
           mkdir -p build
